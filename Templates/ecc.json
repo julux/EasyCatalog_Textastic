@@ -1,0 +1,12 @@
+{
+	"uuid": "a963f960-9bda-4ffc-b3fb-6b2fb9fc4488",
+	"category": "EasyCatalog",
+	"templates": [
+		{
+			"name": "EasyCatalog Code",
+			"fileExtension": "ecc",
+			"snippet": "//Easycatalog calculated field\n//\n//\n//${1:untitled}\n//\n$0\n\n\n\n//Implementation\n"
+		}
+
+	]
+}
