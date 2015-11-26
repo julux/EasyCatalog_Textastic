@@ -1,0 +1,20 @@
+{
+	"description": "Textastic Code Completion for ECC",
+	"uuid": "a963f960-9bda-4ffc-b3fb-6b2fb9fc4488",
+
+	"completionSets": 
+[
+		{
+			"name": "ecc.properties",
+			"defaultAppend": ": $0;",
+			"strings": [
+				"FIELDSTR",
+				"FIELDVAL"
+				{
+					"string": "XXXXX",
+					"append": ": ${1:${2:1px} ${3:solid} ${4:#999}};"
+				}
+    }
+]
+
+}
